@@ -1,7 +1,6 @@
 ﻿# Space Shooter — vamp351980
 ## The pitch
 vamp351980 — fly, blast asteroids, survive, chase the high score.
-Why I'm building it: one honest sentence.
 
 vamp351980 - neon-arcade shooter: 3 enemy waves, power-ups, screen shake on every hit explode into firecraker
 
